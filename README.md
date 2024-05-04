@@ -1,2 +1,4 @@
 # hello-world
-Repositório pra teste
+Repositório sobre EliTH
+Testando
+É isso.
